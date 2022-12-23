@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **JavaScript, Docker, Python, Java.**
 
-- 👯 I’m looking to collaborate on **RPG MAKER PLUGINS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
