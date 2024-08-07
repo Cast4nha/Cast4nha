@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Felipe Castanheira</h1>
-<h3 align="center">Full stack JR Developer</h3>
+<h3 align="center">Full Stack  Developer</h3>
 
-- 🔭 I’m currently working on **Pipelines CI/CD**
+- 🔭 I’m currently working on **Java, Php, Docker and Pipelines CI/CD**
 
-- 🌱 I’m currently learning **JavaScript, Docker, Python, Java.**
+- 🌱 I’m currently learning **Laravel and Kotlin**
 
 
 <h3 align="left">Connect with me:</h3>
